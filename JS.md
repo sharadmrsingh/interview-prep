@@ -3,6 +3,42 @@
 
 ---
 
+### Table of Contents
+
+<!-- TOC_START -->
+| No. | Topic |
+| --- | ------ |
+| 1 | [var, let, const](#1-var-let-const) |
+| 2 | [Hoisting](#2-hoisting) |
+| 3 | [Scope](#3-scope) |
+| 4 | [Type coercion](#4-type-coercion) |
+| 5 | [Difference Between == and ===](#5-difference-between--and-) |
+| 6 | [NaN](#6-nan) |
+| 7 | [Closure](#7-closure) |
+| 8 | [Callback](#8-callback) |
+| 9 | [Higher-Order Function (HOF)](#9-higher-order-function-hof) |
+| 10 | [Promise](#10-promise) |
+| 11 | [async / await](#11-async--await) |
+| 12 | [Event Loop](#12-event-loop) |
+| 13 | [Prototype](#13-prototype) |
+| 14 | [this Keyword](#14-this-keyword) |
+| 15 | [Arrow Function](#15-arrow-function) |
+| 16 | [Destructuring](#16-destructuring) |
+| 17 | [Spread operator](#17-spread-operator) |
+| 18 | [Rest operator](#18-rest-operator) |
+| 19 | [Template literal](#19-template-literal) |
+| 20 | [Array methods](#20-array-methods) |
+| 21 | [Deep vs Shallow copy](#21-deep-vs-shallow-copy) |
+| 22 | [Event bubbling](#22-event-bubbling) |
+| 23 | [IIFE](#23-iife) |
+| 24 | [Debounce](#24-debounce) |
+| 25 | [Throttle](#25-throttle) |
+| 26 | [LocalStorage](#26-localstorage) |
+| 27 | [JSON](#27-json) |
+<!-- TOC_END -->
+
+---
+
 ## 1. var, let, const  
 - `var` → function scope  
 - `let` & `const` → block scope  

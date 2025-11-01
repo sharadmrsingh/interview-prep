@@ -6,6 +6,8 @@ Each topic is written in a short, one-line theory + one-line example format for 
 ## 📂 Structure
 All notes are organized by technology in separate `.md` files.
 
+- [JavaScript](./JS.md)
+
 ## 🎯 Purpose
 To quickly revise key concepts and common interview questions before any technical round.
 
