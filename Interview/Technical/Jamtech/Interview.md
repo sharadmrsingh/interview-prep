@@ -64,6 +64,8 @@ for adding & updating books.
 
 ### 2. Have You Used NestJS or Node with Express?  
 
+### 3. Body parser
+
 ---
 
 ## 📱 React Native
@@ -281,6 +283,23 @@ module.exports = log;
 Express → minimal
 
 NestJS → structured, modular, TypeScript-first.
+
+### **3. Body parser**
+
+Body-parser is an Express middleware that parses incoming request bodies (like JSON or URL-encoded data) and makes them available in **req.body**. 
+
+**Key Points**
+
+- Helps read POST/PUT request data.
+
+- Commonly used middleware:
+
+```
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+```
+
+- Since Express v4.16+, body-parser is built into Express, so you don’t need the separate package for JSON and URL-encoded parsing.
 
 ---
 
